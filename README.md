@@ -7,3 +7,8 @@ This repo is separated into the following folders:
 - Mechanical design files
 - Software
 - Documentation
+
+## System Overview
+
+## Functional Block Diagram
+
