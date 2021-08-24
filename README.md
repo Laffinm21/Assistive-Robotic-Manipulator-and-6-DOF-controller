@@ -8,7 +8,7 @@ This repo is separated into the following folders:
 - Software
 - Documentation
 
-![Example Range of Motion Video](file:///C:/Users/LaffinMichael/Downloads/Example_ROM%20(1).gif)
+![Example Range of Motion Video](https://drive.google.com/file/d/1MQTKNlysBVVUuPiLPVbzMV4yg6Pk1A4A/view?usp=sharing)
 
 ## Project Background
 For those with upper extremity impairments that affect strength and reach, performing simple physical activities of daily life can prove to be insurmountable. Assistive robotic arms have been shown to be effective tools to increase user autonomy within these tasks and can significantly reduce caregiver intervention.[[1]](https://pubmed.ncbi.nlm.nih.gov/22275600/) 
