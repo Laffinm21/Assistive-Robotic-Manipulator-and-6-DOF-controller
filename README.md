@@ -9,6 +9,7 @@ This repo is separated into the following folders:
 - Documentation
 
 ## System Overview
+![Robot Arm and Controller Joystick](https://cdn.hackaday.io/images/5503631629755416228.jpg)
 
 ## Functional Block Diagram
 
