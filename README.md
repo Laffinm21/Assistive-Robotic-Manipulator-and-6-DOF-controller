@@ -23,6 +23,9 @@ The proposed experimental system hardware consists of a robotic arm, a controlle
 
 ## Electronics Functional Block Diagram
 ![Functional Block Diagram](https://cdn.hackaday.io/images/384401629052787796.png)
+<p align="center">
+  <img width="863" height="291" src="https://cdn.hackaday.io/images/384401629052787796.png">
+</p>
 
 ## Controller Arm
 An early version of the controller arm is shown below. The device connects to the electronics enclosure via a VGA cable. Each joint rotates about a 10k rotary potentiometer which acts as a position sensor. The kinematic structure of the controller arm is congruent to the robot arm, at approximately 1/3 scale. Each pot acts as a voltage divider and provides an analog voltage for the Teensy to interpret. With full positional and orientationally freedom, users can move the tip of the controller in any direction, and the robotic arm will match the movements in a proportional manner. 
