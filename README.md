@@ -33,7 +33,7 @@ An early version of the controller arm is shown below. The device connects to th
 
 
 <p align="center">
-  <img width="600" height="200" src="https://cdn.hackaday.io/images/1682941629334399808.png">
+  <img width="338" height="400" src="https://cdn.hackaday.io/images/1682941629334399808.png">
 </p>
 The design of the robotic arm used in this project is based on the Annin AR3 industrial arm, an open-source robotics platform. More information regarding this project can be found here. The most significant modification to the original design was that I manufactured nearly every component from plastic. There are several reasons why I chose to do this. It is much simpler to machine plastic parts, and building the arm during Covid restricted my access to large equipment that would be necessary to produce an aluminum system. Secondly, a plastic-based robot has generally reduced rigidity, weight and increased compliance compared to aluminum construction. All of these attributes are favorable in application of a collaborative robot (COBOT) where human safety is the top priority.
 ![Completed Arm](https://cdn.hackaday.io/images/7138011629059852707.jpg)
