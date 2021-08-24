@@ -22,7 +22,6 @@ User interfaces for commercial assistive robot arms vary between products, howev
 The proposed experimental system hardware consists of a robotic arm, a controller arm, and an electronics housing. The controller arm acts as a 6-dimensional joystick, and its pose can be manipulated to proportionally control the robot arm. Calibrating sensitivity of individual joints on the joystick to exploit the user's specific abilities can allow for an increased range of motion of the robot arm. 
 
 ## Electronics Functional Block Diagram
-![Functional Block Diagram](https://cdn.hackaday.io/images/384401629052787796.png)
 <p align="center">
   <img width="863" height="291" src="https://cdn.hackaday.io/images/384401629052787796.png">
 </p>
@@ -32,9 +31,6 @@ An early version of the controller arm is shown below. The device connects to th
 ![Controller Arm](https://cdn.hackaday.io/images/9541151629056474718.jpg)
 
 # Robot Arm
-![AR3 Arm](https://cdn.hackaday.io/images/1682941629334399808.png)
-
-
 <p align="center">
   <img width="338" height="400" src="https://cdn.hackaday.io/images/1682941629334399808.png">
 </p>
