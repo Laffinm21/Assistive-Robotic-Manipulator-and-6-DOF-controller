@@ -18,12 +18,14 @@ User interfaces for commercial assistive robot arms vary between products, howev
  Such operation is simple however, small delays from switching joints can quickly accumulate into a significant amount of time for the user. The this project is an investigation into the viability of concurrent joint operation, opposed to consecutive operation of individual joints as seen in many current systems. 
 
 ## System Overview
-![Robot Arm and Controller Joystick](https://cdn.hackaday.io/images/5503631629755416228.jpg)
+![Joint angle relationship](https://cdn.hackaday.io/images/185061644891062430.jpg)
+![Robot Arm and Controller Joystick](https://cdn.hackaday.io/images/9375461644892116367.jpg)
 The proposed experimental system hardware consists of a robotic arm, a controller arm, and an electronics housing. The controller arm acts as a 6-dimensional joystick, and its pose can be manipulated to proportionally control the robot arm. Calibrating sensitivity of individual joints on the joystick to exploit the user's specific abilities can allow for an increased range of motion of the robot arm. 
+![Robot Arm and Controller Joystick Early](https://cdn.hackaday.io/images/5503631629755416228.jpg)
 
 ## Electronics Functional Block Diagram
 <p align="center">
-  <img width="863" height="291" src="https://cdn.hackaday.io/images/384401629052787796.png">
+  <img width="863" height="291" src="https://cdn.hackaday.io/images/5320441644891388505.jpg">
 </p>
 
 ## Controller Arm
@@ -32,7 +34,7 @@ An early version of the controller arm is shown below. The device connects to th
 
 # Robot Arm
 <p align="center">
-  <img width="338" height="400" src="https://cdn.hackaday.io/images/1682941629334399808.png">
+  <img width="338" height="400" src="https://cdn.hackaday.io/images/8403261639883239009.JPG">
 </p>
 The design of the robotic arm used in this project is based on the Annin AR3 industrial arm, an open-source robotics platform. More information regarding this project can be found here. The most significant modification to the original design was that I manufactured nearly every component from plastic. There are several reasons why I chose to do this. It is much simpler to machine plastic parts, and building the arm during Covid restricted my access to large equipment that would be necessary to produce an aluminum system. Secondly, a plastic-based robot has generally reduced rigidity, weight and increased compliance compared to aluminum construction. All of these attributes are favorable in application of a collaborative robot (COBOT) where human safety is the top priority.
 
