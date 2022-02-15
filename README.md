@@ -28,6 +28,9 @@ The proposed experimental system hardware consists of a robotic arm, a controlle
   <img width="863" height="454" src="https://cdn.hackaday.io/images/5320441644891388505.jpg">
 </p>
 
+## Control Loop diagram
+![Hybrid control topology](https://cdn.hackaday.io/images/2543331644892651441.jpg)
+
 ## Controller Arm
 An early version of the controller arm is shown below. The device connects to the electronics enclosure via a VGA cable. Each joint rotates about a 10k rotary potentiometer which acts as a position sensor. The kinematic structure of the controller arm is congruent to the robot arm, at approximately 1/3 scale. Each pot acts as a voltage divider and provides an analog voltage for the Teensy to interpret. With full positional and orientationally freedom, users can move the tip of the controller in any direction, and the robotic arm will match the movements in a proportional manner. 
 ![Controller Arm](https://cdn.hackaday.io/images/9541151629056474718.jpg)
