@@ -25,7 +25,7 @@ The proposed experimental system hardware consists of a robotic arm, a controlle
 
 ## Electronics Functional Block Diagram
 <p align="center">
-  <img width="863" height="291" src="https://cdn.hackaday.io/images/5320441644891388505.jpg">
+  <img width="863" height="454" src="https://cdn.hackaday.io/images/5320441644891388505.jpg">
 </p>
 
 ## Controller Arm
